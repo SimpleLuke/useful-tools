@@ -1,0 +1,12 @@
+gdb
+rr
+strace
+perf
+Valgrind
+ASan
+UBSan
+TSan
+tcpdump
+Wireshark
+lsof
+/proc
